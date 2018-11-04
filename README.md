@@ -22,7 +22,7 @@ Durante la realizzazione del progetto ho avuto alcuni problemi con la creazione 
 Per la realizzazione complessiva del progetto ho impiegato all’incirca 5 ore di lavoro non intenso.
 
 ## Piccola demo:
-YouTube: GitHub: 
+YouTube: GitHub: https://github.com/stecarpi/CryptoChat
 
 ## Bug:
 Se un utente chiude la GUI la connessione TCP non viene terminata e viene generata un’eccezione che però, venendo gestita, non termina l’esecuzione. Non si può quindi terminare l’appiattivo in altro modo se non forzando l’interruzione chiudendo il terminale.
