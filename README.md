@@ -35,3 +35,6 @@ In queste 5 ore ho inevitabilmente acquisito una ulteriore capacità nell’uso 
 
 ## Come si usa:
 Eccoci al più bello, per poter utilizzare l’applicativo è necessario aver a disposizione un computer (NON è rilevante l’edizione o il tipo di sistema operativo) con installati gli SDK di Java (qui il link: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) dopo di che, seguendo qualche comoda guida come quella segnalata sopra, sfruttare il prompt dei comandi (o terminale) per compilare i file .java trasformandoli magicamente in .class, ora hai quasi terminato! Esegui PRIMA il file Server.class sulla macchina che hai deciso effettuerà questo compito e POI il file startclient.class, si esatto, il file mychat non verrà avviato direttamente da noi ma “lanciato” da startclient ecco perché quando andrai a compilarlo dovrai compilare con “javac” SOLO questo file. Dopo di che, il gioco è fatto, inserisci quanti client vuoi e buon divertimento!
+
+## Prima di Compilare!
+Ricordo che prima di compilare i vari file .java è consigliabile scegliere una propria coppia di chiavi e di variare opportunamente la coppia ServerIP-Porta nel file mychat.java.
